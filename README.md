@@ -1,6 +1,6 @@
 ### Per visionare il progetto completo
 
-Link al progetto completo: https://package-tours.netlify.app/
+Link al progetto completo: https://colorgrading.netlify.app/
 
 
 ### Per installare il progettino
@@ -16,7 +16,7 @@ ____________________________________________
 
 
 ### To view the complete project
-Link to the full project: https://package-tours.netlify.app/
+Link to the full project: https://colorgrading.netlify.app/
 
 ### To install the project
 - Download the Zip file or Clone (in this case remove the .git folder)
